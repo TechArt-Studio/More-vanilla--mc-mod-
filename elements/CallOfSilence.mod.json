@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Call Of Silence ",
+    "rarity": "COMMON",
+    "texture": "call-of-silence-ze_ye_hong_zhi_",
+    "description": "Call Of Silence - Sawano Hiroyuki",
+    "creativeTab": {
+      "value": "CUSTOM:Morevanilla"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:call_of_silence_sawano_hiroyuki"
+    },
+    "lengthInTicks": 3560,
+    "analogOutput": 0
+  }
+}

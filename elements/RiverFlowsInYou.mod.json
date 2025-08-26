@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "River Flows In You",
+    "rarity": "COMMON",
+    "texture": "river-flows-in-you",
+    "description": "River Flows In You - Yiruma",
+    "creativeTab": {
+      "value": "CUSTOM:Morevanilla"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:riverflowsinyou"
+    },
+    "lengthInTicks": 4280,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "My Sunset",
+    "rarity": "COMMON",
+    "texture": "feint",
+    "description": "My Sunset (Original Mix)",
+    "creativeTab": {
+      "value": "CUSTOM:Morevanilla"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:mysunset"
+    },
+    "lengthInTicks": 6520,
+    "analogOutput": 0
+  }
+}

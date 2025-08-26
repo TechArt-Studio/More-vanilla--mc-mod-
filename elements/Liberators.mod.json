@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Liberators",
+    "rarity": "COMMON",
+    "texture": "3898772994",
+    "description": "Liberators-Epic Score",
+    "creativeTab": {
+      "value": "CUSTOM:Morevanilla"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:liberators"
+    },
+    "lengthInTicks": 3120,
+    "analogOutput": 0
+  }
+}

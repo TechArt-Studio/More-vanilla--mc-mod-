@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "call_of_silenceadvancement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "more_vanilla:call_of_silence_piano"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 114
+  },
+  "parent": "minecraft:story/root"
+}

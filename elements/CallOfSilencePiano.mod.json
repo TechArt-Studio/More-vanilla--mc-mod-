@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Call Of Silence (Piano)",
+    "rarity": "COMMON",
+    "texture": "call-of-silence-haru-pic",
+    "description": "Call Of Silence(Piano) - Sawano Hiroyuki & CHANYEONG KIM",
+    "creativeTab": {
+      "value": "CUSTOM:Morevanilla"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:call_of_silence_piano"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

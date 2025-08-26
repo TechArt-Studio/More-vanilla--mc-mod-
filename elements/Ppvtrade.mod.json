@@ -1,0 +1,558 @@
+{
+  "_fv": 57,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COBBLESTONE"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Tendollar"
+            },
+            "countOffer": 2,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 2,
+            "priceMultiplier": 0.013
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.WHEAT"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Cent"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.IRON_INGOT"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 3,
+            "level": 1,
+            "maxTrades": 100,
+            "xp": 3,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.IRON_ORE"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 100,
+            "xp": 3,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OnehundredDollar"
+            },
+            "countOffer": 5,
+            "level": 4,
+            "maxTrades": 50,
+            "xp": 10,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.GOLD_ORE"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OnehundredDollar"
+            },
+            "countOffer": 2,
+            "level": 3,
+            "maxTrades": 50,
+            "xp": 10,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.GOLD_INGOT"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OnehundredDollar"
+            },
+            "countOffer": 64,
+            "level": 3,
+            "maxTrades": 10,
+            "xp": 20,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.DIAMOND_ORE"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OnehundredDollar"
+            },
+            "countOffer": 15,
+            "level": 3,
+            "maxTrades": 10,
+            "xp": 20,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.DIAMOND"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:OnehundredDollar"
+            },
+            "countOffer": 41,
+            "level": 3,
+            "maxTrades": 10,
+            "xp": 20,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COPPER_ORE"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 2,
+            "level": 2,
+            "maxTrades": 1000,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.COPPER_INGOT"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 45,
+            "level": 2,
+            "maxTrades": 1000,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.COAL#0"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 1,
+            "level": 2,
+            "maxTrades": 1000,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Blocks.COAL_BLOCK"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 9,
+            "level": 2,
+            "maxTrades": 1000,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EGG"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dime"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 5,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.MUTTON"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 5,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.PORKCHOP"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.BEEF"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 20,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.CHICKEN"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 6,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.COOKED_MUTTON"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 6,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.COOKED_PORKCHOP"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 5,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.COOKED_BEEF"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 22,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "CUSTOM:ProspectorProvisionsMerchant"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.COOKED_CHICKEN"
+            },
+            "countPrice1": 1,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:Dollar"
+            },
+            "countOffer": 10,
+            "level": 1,
+            "maxTrades": 1000,
+            "xp": 1,
+            "priceMultiplier": 0.0
+          }
+        ]
+      }
+    ]
+  }
+}

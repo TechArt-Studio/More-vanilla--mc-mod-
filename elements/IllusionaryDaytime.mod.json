@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Illusionary Daytime",
+    "rarity": "COMMON",
+    "texture": "illusionary-daytime",
+    "description": "Illusionary Daytime - Shirfine ",
+    "creativeTab": {
+      "value": "CUSTOM:Morevanilla"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:illusionarydaytime"
+    },
+    "lengthInTicks": 5000,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 57,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Tennessee",
+    "rarity": "COMMON",
+    "texture": "1857581381",
+    "description": "Tennessee-Hans Zimmer",
+    "creativeTab": {
+      "value": "CUSTOM:Morevanilla"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:tennesse"
+    },
+    "lengthInTicks": 4380,
+    "analogOutput": 0
+  }
+}

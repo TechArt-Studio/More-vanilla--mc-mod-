@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "More vanilla",
+    "icon": {
+      "value": "Blocks.DEEPSLATE_DIAMOND_ORE"
+    },
+    "showSearch": true
+  }
+}
